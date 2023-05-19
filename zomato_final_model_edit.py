@@ -37,7 +37,7 @@ def main():
             """,
             unsafe_allow_html=True
             )
-    add_bg_from_local("C:\\Users\\tasne\\Downloads\\On.jpg")    
+    #add_bg_from_local("C:\\Users\\tasne\\Downloads\\On.jpg")    
       
     st.title('succsess Prediction')
    
